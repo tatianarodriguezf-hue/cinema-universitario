@@ -1,0 +1,19 @@
+# Cinema Universitario UdeA - Requisitos del Sistema
+
+# Python Standard Library (incluidas por defecto)
+# No se requieren instalaciones adicionales
+
+# Librerías utilizadas (parte de Python estándar):
+# - csv: Para exportación de datos
+# - datetime: Para manejo de fechas y horas
+# - uuid: Para generación de IDs únicos
+# - os: Para operaciones del sistema operativo
+
+# Requisitos del sistema:
+# Python >= 3.7
+
+# Para verificar la versión de Python:
+# python --version
+
+# El proyecto utiliza únicamente librerías estándar de Python
+# No requiere instalación de paquetes externos con pip
